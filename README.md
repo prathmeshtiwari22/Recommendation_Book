@@ -63,8 +63,8 @@ Follow these steps to set up the Book Recommender System on your local machine:
 ## Screenshots
 
 ### Home Page
-![Home Page](ss1.png)
+![Home Page](templates/ss1.png)
 
 ### Recommendation Page
-![Recommendation Page](ss2.png)
+![Recommendation Page](templates/ss2.png)
 
